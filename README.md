@@ -1,2 +1,2 @@
 # DevopsLab
-This is Devops Lab Repo
+This is the DevOps Lab Repo.
